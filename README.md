@@ -91,23 +91,6 @@ The dataset was cleaned and transformed before visualization, including:
 - Employee retention trends vary significantly across departments.
 - Workforce demographics reveal differences in salary distribution and age categories.
 - Long-term employee retention patterns provide insights into organizational stability.
-
----
-
-## Repository Structure
-
-```text
-hr-analytics-dashboard-powerbi/
-│
-├── dashboard/
-│   └── HR Dashboard.pbix
-│
-├── images/
-│   ├── hr_dashboard_overview.png
-│   ├── hr_dashboard_demographics.png
-│   └── hr_dashboard_retention.png
-│
-├── documentation/
 │   └── CA01_Silva_Karina.pdf
 │
 └── README.md
