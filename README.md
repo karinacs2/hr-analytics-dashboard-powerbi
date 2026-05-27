@@ -84,26 +84,6 @@ The dataset was cleaned and transformed before visualization, including:
 
 ---
 
-## Dashboard Preview
-
-### Overview Page
-
-![Overview Dashboard](images/hr_dashboard_overview.png)
-
----
-
-### Demographics Page
-
-![Demographics Dashboard](images/hr_dashboard_demographics.png)
-
----
-
-### Retention Page
-
-![Retention Dashboard](images/hr_dashboard_retention.png)
-
----
-
 ## Key Insights
 
 - The organization maintains a relatively balanced gender distribution.
