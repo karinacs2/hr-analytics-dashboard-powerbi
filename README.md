@@ -72,6 +72,26 @@ The dataset was cleaned and transformed before visualization, including:
 
 ---
 
+## Dashboard Preview
+
+### Overview Page
+
+![Overview Dashboard](images/hr_dashboard_overview.png)
+
+---
+
+### Demographics Page
+
+![Demographics Dashboard](images/hr_dashboard_demographics.png)
+
+---
+
+### Retention & Service Time Page
+
+![Retention Dashboard](images/hr_dashboard_retention.png)
+
+---
+
 ## Key Features
 
 - Interactive filters and slicers
@@ -91,6 +111,18 @@ The dataset was cleaned and transformed before visualization, including:
 - Employee retention trends vary significantly across departments.
 - Workforce demographics reveal differences in salary distribution and age categories.
 - Long-term employee retention patterns provide insights into organizational stability.
-│   └── CA01_Silva_Karina.pdf
+
+---
+
+## Repository Structure
+
+```text
+hr-analytics-dashboard-powerbi/
 │
-└── README.md
+├── HR Dashboard.pbix
+├── README.md
+│
+└── images/
+    ├── hr_dashboard_overview.png
+    ├── hr_dashboard_demographics.png
+    └── hr_dashboard_retention.png
